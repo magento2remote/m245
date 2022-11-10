@@ -14,6 +14,8 @@ The goal is to have a simple way of creating different configuraitons for Magent
 - Compress your .sql file and place into the gitpod folder as ```magento-db.sql.zip```
 - Set INSTALL_MAGENTO = No in the [.gitpod.Dockerfile](https://github.com/magento2remote/m245/blob/master/.gitpod.Dockerfile)
 
+## website url
+https://8002-magento2remote-m245-qflp51la7c2.ws-us75.gitpod.io/
 
 # Credit
 https://github.com/nemke82/magento2gitpod
