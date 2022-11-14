@@ -14,8 +14,31 @@ The goal is to have a simple way of creating different configuraitons for Magent
 - Compress your .sql file and place into the gitpod folder as ```magento-db.sql.zip```
 - Set INSTALL_MAGENTO = No in the [.gitpod.Dockerfile](https://github.com/magento2remote/m245/blob/master/.gitpod.Dockerfile)
 
+## website url
+https://8002-magento2remote-m245-qflp51la7c2.ws-us75.gitpod.io/
 
 # Credit
 https://github.com/nemke82/magento2gitpod
 
 https://github.com/develodesign/magento-gitpod
+
+
+## GA4
+
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-PNCNZ6H');</script>
+    <!-- End Google Tag Manager -->
+
+
+
+**body**
+
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PNCNZ6H"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
